@@ -11,6 +11,7 @@ authors:
 - Daniel C. Strobl
 - Juan Henao
 - Fabiola Curion
+- Single-cell Best Practices Consortium
 - Herbert B. Schiller
 - Fabian J. Theis
 date: '2023-08-01'
