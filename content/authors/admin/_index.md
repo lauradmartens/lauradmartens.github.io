@@ -32,6 +32,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/lauradmartens
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/lauradmartens.bsky.social
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
