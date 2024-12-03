@@ -2,11 +2,11 @@
 title: Epicardioid single-cell genomics uncovers principles of human epicardium biology
   in heart development and disease
 authors:
-- Anna B. Meier
-- Dorota Zawada
-- Maria Teresa De Angelis
-- Laura D. Martens
-- Gianluca Santamaria
+- Anna B. Meier*
+- Dorota Zawada*
+- Maria Teresa De Angelis*
+- Laura D. Martens*
+- Gianluca Santamaria*
 - Sophie Zengerle
 - Monika Nowak-Imialek
 - Jessica Kornherr
