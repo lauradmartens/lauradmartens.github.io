@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Laura Martens
+title: Laura D. Martens
 
 # Full name (for SEO)
-first_name: Laura
+first_name: Laura D.
 last_name: Martens
 
 # Status emoji
