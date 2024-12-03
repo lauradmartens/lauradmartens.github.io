@@ -2,8 +2,8 @@
 title: 'scooby: Modeling multi-modal genomic profiles from DNA sequence at single-cell
   resolution'
 authors:
-- Johannes C. Hingerl
-- Laura D. Martens
+- Johannes C. Hingerl<sup>†</sup>
+- Laura D. Martens<sup>†</sup>
 - Alexander Karollus
 - Trevor Manz
 - Jason D. Buenrostro
